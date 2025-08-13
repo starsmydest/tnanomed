@@ -1,20 +1,21 @@
 [
     {
-        "school":"[The School of pharmacy, University College London](https://www.ucl.ac.uk/)",
+        "school":"[The School of Pharmacy, University College London](https://www.ucl.ac.uk/)",
         "degree":"PhD",
         "major":"Nanomedicine",
         "range":"2007 - 2011"
     },
     {
-        "school":"[The School of pharmacy, University College London](https://www.ucl.ac.uk/)",
+        "school":"[The School of Pharmacy, University College London](https://www.ucl.ac.uk/)",
         "degree":"Msc",
         "major":"Drug delivery and targeting",
         "range":"2005 - 2006"
     },
     {
-        "school":"[Shenyang pharmaceutical University](https://en.syphu.edu.cn/)",
+        "school":"[Shenyang Pharmaceutical University](https://en.syphu.edu.cn/)",
         "degree":"Bpharm",
         "major":"Pharmaceutics",
         "range":"2000 - 2005"
     }
 ]
+
