@@ -1,5 +1,5 @@
 title = "T NANOMED"
-baseURL = "https://www.starsmydest.org/"
+baseURL = "https://www.tnanomed.com/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
