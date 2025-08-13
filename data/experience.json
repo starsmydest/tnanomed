@@ -1,0 +1,38 @@
+[
+    {
+        "role":"Director",
+        "company":"Catalent Pharma Solutions",
+        "summary":"I am leading the effort in the LNP mRNA process development, including:\n- Set up the first PD lab within Catalent in GOS, Belgium \n- Design and deliver process development for LNP mRNA \n- Generate strong proof-of-concept data for LNP mRNA process development\n- Support business development and client meetings and visits\n- Co-lead of team to support LNP mRNA process development at GOS, Belgium\n- Maintain vigilant for LNP and RNA related technology development \n- Scientific leader in early-stage projects related to non-viral delivery systems",
+        "range":"November 2022 - July 2025"
+    },
+    {
+        "role":"Senior Scientist",
+        "company":"Particle Works (now part of unchained lab)",
+        "summary":"\n- I am leading the efforts in the design and development of LNP formulation for gene delivery (e.g. mRNA) using highly innovative automated microfluidics systems. \n- I am the thought leader in the LNP gene delivery field and actively involved in media interview, publications, online seminar, conference presentation, and commercial and client (first tier) facing roles ",
+        "range":"April 2022 - October 2022"
+    },
+    {
+        "role":"Head of Protein Science",
+        "company":"Exogene",
+        "summary":"I am leading the efforts to set up labs with following capabilities, as follows:. \n- Gene engineering:viral vector and plasmid design and production,gene sequencing.\n- Protein expression and engineering: affinity maturation and stability maturation. \n- Cell line engineering: single cell sequencing, mammalian display ",
+        "range":"May 2021 - January 2022"
+    },
+    {
+        "role":"Scientist",
+        "company":"Autolus Therapeutics",
+        "summary":"\n- Discovery and engineering of novel antibodies for CAR-T cell. \n- Screen CAR-T interaction with target cells. \n- Protein production to support R&D projects and animal immunization. \n- Novel technology development to study cell-cell interactions.\n- Engineering novel modalities for T-cell activation. \n- Schrodinger Molecular Modelling in drug discovery",
+        "range":"June 2019 - Feburary 2021"
+    },
+    {
+        "role":"Senior Scientist",
+        "company":"Immunocore",
+        "summary":"\n- Assay development for the screening of T-cell receptors with various affinity (uM to pM) binding to the target peptide-HLA, including protein expression and characterization, binding assay development and imaging. \n- The development T-cell receptor based diagnostic reagents for peptide-HLA complex detection and quantification in cells and tissues, including companion diagnostics (e.g. CDx)design and development, protein expression and characterization, bio-imaging",
+        "range":"January 2017 - March 2019"
+    },
+    {
+        "role":"Research Fellow",
+        "company":"School of Pharmacy, University of Nottingham",
+        "summary":"\n- Nanoparticles for safer and more efficient delivery of radionuclides into cancer (funded by Wellcome Trust Pathfinder Award). The project has led to a patent(application number: GB1604220.2). \n- Commercialzing a novel drug delivery platform technology.\n- Nanosensors integrated bioreactors for regenerative medicine.\n- Microfabricated cantilever methods as nanoscale screens for early indicators of protein aggregation  ",
+        "range":"2011- 2017"
+    }
+]

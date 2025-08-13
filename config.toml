@@ -1,0 +1,39 @@
+title = "T-NANOMED"
+baseURL = "https://www.starsmydest.org/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+address = "Abingdon,Oxfordshire, OX14 1EN, UK"
+email = "bowen.tianuk@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Bowen"
+lastName = "Tian"
+phone = "(+44) 7861889657 "
+profileImage = "img/bowen.jpeg"
+showQr = true
+showContact = false
+showBoards  = false
+showCertifications = false
+showSocializations = true
+sections = ["skills","experience","education","publications"]
+
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/bowen-t-1bb69a3a/"
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
